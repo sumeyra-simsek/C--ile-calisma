@@ -1,0 +1,29 @@
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\31-mart\bin\Debug\31-mart.exe.config
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\31-mart\bin\Debug\31-mart.exe
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\31-mart\bin\Debug\31-mart.pdb
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\31-mart\obj\Debug\31-mart.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\31-mart\obj\Debug\_31_mart.Form1.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\31-mart\obj\Debug\_31_mart.Properties.Resources.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\31-mart\obj\Debug\31-mart.csproj.GenerateResource.Cache
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\31-mart\obj\Debug\31-mart.exe
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\31-mart\obj\Debug\31-mart.pdb
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\31-mart\obj\Debug\_31_mart.Form2.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\31-mart\obj\Debug\_31_mart.Form3.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\31-mart\obj\Debug\_31_mart.Form4.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\31-mart\obj\Debug\_31_mart.Form5.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\31-mart\obj\Debug\_31_mart.Form6.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\31-mart\bin\Debug\31-mart.exe.config
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\31-mart\bin\Debug\31-mart.exe
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\31-mart\bin\Debug\31-mart.pdb
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\31-mart\obj\Debug\31-mart.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\31-mart\obj\Debug\_31_mart.Form1.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\31-mart\obj\Debug\_31_mart.Form2.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\31-mart\obj\Debug\_31_mart.Form3.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\31-mart\obj\Debug\_31_mart.Form4.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\31-mart\obj\Debug\_31_mart.Form5.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\31-mart\obj\Debug\_31_mart.Form6.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\31-mart\obj\Debug\_31_mart.Properties.Resources.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\31-mart\obj\Debug\31-mart.csproj.GenerateResource.cache
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\31-mart\obj\Debug\31-mart.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\31-mart\obj\Debug\31-mart.exe
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\31-mart\obj\Debug\31-mart.pdb

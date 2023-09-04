@@ -1,0 +1,21 @@
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\14 nisan\bin\Debug\14 nisan.exe.config
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\14 nisan\bin\Debug\14 nisan.exe
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\14 nisan\bin\Debug\14 nisan.pdb
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\14 nisan\obj\Debug\14 nisan.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\14 nisan\obj\Debug\_14_nisan.Properties.Resources.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\14 nisan\obj\Debug\14 nisan.csproj.GenerateResource.Cache
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\14 nisan\obj\Debug\14 nisan.exe
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\14 nisan\obj\Debug\14 nisan.pdb
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\14 nisan\obj\Debug\_14_nisan.Form1.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\14 nisan\bin\Debug\14 nisan.exe.config
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\14 nisan\obj\Debug\14 nisan.exe
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\14 nisan\obj\Debug\14 nisan.pdb
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\14 nisan\bin\Debug\14 nisan.exe
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\14 nisan\bin\Debug\14 nisan.pdb
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\14 nisan\obj\Debug\_14_nisan.Form1.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\14 nisan\obj\Debug\_14_nisan.Properties.Resources.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\14 nisan\obj\Debug\14 nisan.csproj.GenerateResource.Cache
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\14 nisan\obj\Debug\_14_nisan.Form2.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\14 nisan\obj\Debug\_14_nisan.Form3.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\14 nisan\obj\Debug\_14_nisan.Form4.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\14 nisan\obj\Debug\14 nisan.csproj.CoreCompileInputs.cache

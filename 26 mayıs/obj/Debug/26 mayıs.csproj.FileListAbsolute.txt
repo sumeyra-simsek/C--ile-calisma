@@ -1,0 +1,9 @@
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\26 mayıs\bin\Debug\26 mayıs.exe.config
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\26 mayıs\bin\Debug\26 mayıs.exe
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\26 mayıs\bin\Debug\26 mayıs.pdb
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\26 mayıs\obj\Debug\_26_mayıs.Properties.Resources.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\26 mayıs\obj\Debug\26 mayıs.csproj.GenerateResource.Cache
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\26 mayıs\obj\Debug\26 mayıs.exe
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\26 mayıs\obj\Debug\26 mayıs.pdb
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\26 mayıs\obj\Debug\_26_mayıs.Form1.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\26 mayıs\obj\Debug\26 mayıs.csproj.CoreCompileInputs.cache

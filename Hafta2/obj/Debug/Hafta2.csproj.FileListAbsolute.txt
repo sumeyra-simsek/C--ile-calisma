@@ -1,0 +1,16 @@
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\Hafta2\bin\Debug\Hafta2.exe.config
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\Hafta2\bin\Debug\Hafta2.exe
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\Hafta2\bin\Debug\Hafta2.pdb
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\Hafta2\obj\Debug\Hafta2.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\Hafta2\obj\Debug\Hafta2.Form1.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\Hafta2\obj\Debug\Hafta2.Properties.Resources.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\Hafta2\obj\Debug\Hafta2.csproj.GenerateResource.Cache
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\Hafta2\obj\Debug\Hafta2.exe
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\Hafta2\obj\Debug\Hafta2.pdb
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\Hafta2\obj\Debug\Hafta2.Form3.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\Hafta2\obj\Debug\Hafta2.Form2.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\Hafta2\obj\Debug\Hafta2.Form4.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\Hafta2\obj\Debug\Hafta2.Form5.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\Hafta2\obj\Debug\Hafta2.Form6.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\Hafta2\obj\Debug\Hafta2.Form7.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\WindowsFormsApplication1\Hafta2\obj\Debug\Hafta2.Form8.resources

@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\WindowsFormsApplication1\obj\Debug\10 mart.csproj.GenerateResource.Cache
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\WindowsFormsApplication1\obj\Debug\10 mart.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\ders nesneye yön\hafta1\nesneye yönelik programlama\WindowsFormsApplication1\obj\Debug\10 mart.csproj.CoreCompileInputs.cache
